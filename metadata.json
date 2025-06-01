@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Abacus",
+  "description": "An interactive virtual abacus with ten wires and ten beads per wire. Users can drag (click to move) beads, and undo or reset their actions. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
