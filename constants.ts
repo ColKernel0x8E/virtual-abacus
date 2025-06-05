@@ -8,3 +8,4 @@ export const BEAD_SIZE_TW_UNIT = 6; // Represents 1.5rem (24px)
 export const GAP_WIDTH_TW_UNIT = 20; // Represents 5rem (80px), for the gap between bead groups
 
 export const MAX_HISTORY_SIZE = 30; // Max undo steps
+export const LONG_PRESS_DURATION = 700; // milliseconds
